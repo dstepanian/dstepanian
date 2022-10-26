@@ -1,10 +1,6 @@
-- 👋 Hi, I’m David
-- 👀 I’m interested in programming, robotics, web development.
+- 👋 Hi, I’m David from Armenia.
+- 👀 I’m interested in programming, 3D graphics and printing, robotics,  web development.
 - 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate on teams that can accept me in their work.
-- 📫 How to reach me: write me in LINKEDIN: https://www.linkedin.com/in/dstepanian
+- 💞️ I’m looking to collaborate with interesting teams.
+- 📫 Write me in LINKEDIN: https://www.linkedin.com/in/dstepanian
 
-<!---
-dstepanian/dstepanian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
