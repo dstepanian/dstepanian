@@ -1,6 +1,7 @@
 - 👋 Hi, I’m David from Armenia.
+- 🐱 In IT since I was 14.
 - 👀 I’m interested in programming, 3D graphics and printing, robotics,  web development.
 - 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate with interesting teams.
+- 💞️ Ready to collaborate on exciting ideas.
 - 📫 Write me in LINKEDIN: https://www.linkedin.com/in/dstepanian
-
+- ⚡️ Web3: davidstepanyan.wallet
