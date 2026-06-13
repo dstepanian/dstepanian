@@ -1,6 +1,24 @@
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/st3panian) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dstepanian) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/davidstepanyan) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1572B6,100:092E20&height=200&section=header&text=David%20Stepanyan&fontColor=ffffff&fontSize=50&animation=fadeIn&descSize=18" width="100%"/>
+
+<a href="https://github.com/dstepanian?tab=followers"><img src="https://img.shields.io/github/followers/dstepanian?label=Follow&style=social"/></a>
+<img src="https://komarev.com/ghpvc/?username=dstepanian&color=1572B6&style=flat&label=Profile+Views"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=1572B6&center=true&vCenter=true&width=600&lines=Full-stack+developer+from+Armenia;Python+%E2%80%A2+Django+%E2%80%A2+React;I+build+the+apps+and+run+the+servers;Building+for+impact+%40+COAF"/>
+
+</div>
+
+## 🧑‍💻 About Me
+
+- 🔭 Full-stack developer at **COAF** (Children of Armenia Fund) — based in **Armenia** 🇦🇲
+- ⚙️ I build with **Python / Django** and **React**, then **deploy and run the infrastructure myself** — servers, networks, VPN
+- 🎨 I also design — **Figma** and the **Adobe** suite
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/dstepanian)
+
+## 🌐 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/st3panian) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dstepanian) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/davidstepanyan)
 
 # 💻 Tech Stack
 
@@ -28,15 +46,22 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)
 
 **🖌️ Design & Creative**  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![GIMP](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![GIMP](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
 
-**🔗 Other**  
-![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-![](https://github-readme-stats-one-lovat-kxmyoq5oni.vercel.app/api?username=dstepanian&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dstepanian&theme=dark&hide_border=false&v=2)
-![](https://github-readme-stats-one-lovat-kxmyoq5oni.vercel.app/api/top-langs/?username=dstepanian&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-one-lovat-kxmyoq5oni.vercel.app/api?username=dstepanian&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
+<img height="180em" src="https://github-readme-stats-one-lovat-kxmyoq5oni.vercel.app/api/top-langs/?username=dstepanian&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dstepanian&theme=tokyonight&hide_border=true&v=3"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=dstepanian&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8"/>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dstepanian&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+<i>⚡ Building things that matter, one commit at a time.</i>
+</div>
