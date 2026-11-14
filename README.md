@@ -41,7 +41,10 @@
 <img src="https://skillicons.dev/icons?perline=12&i=mongodb,postgres,supabase,mysql,sqlite" alt="MongoDB, PostgreSQL, Supabase, MySQL, SQLite" height="40"/>
 
 **Infrastructure & monitoring**  
-<img src="https://skillicons.dev/icons?perline=12&i=linux,docker,nginx,githubactions,cloudflare,vercel,netlify,prometheus,grafana,raspberrypi" alt="Linux, Docker, Nginx, GitHub Actions, Cloudflare, Vercel, Netlify, Prometheus, Grafana, Raspberry Pi" height="40"/>
+<img src="https://skillicons.dev/icons?perline=12&i=linux,docker,nginx,githubactions,cloudflare,vercel,netlify,prometheus,grafana" alt="Linux, Docker, Nginx, GitHub Actions, Cloudflare, Vercel, Netlify, Prometheus, Grafana" height="40"/>
+
+**Hardware & IoT**  
+<img src="https://skillicons.dev/icons?perline=12&i=arduino,raspberrypi" alt="Arduino, Raspberry Pi" height="40"/>
 
 **Tools**  
 <img src="https://skillicons.dev/icons?perline=12&i=git,github,gitlab" alt="Git, GitHub, GitLab" height="40"/>
