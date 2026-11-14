@@ -54,10 +54,10 @@
 
 <div align="center">
 
-<img height="170" alt="GitHub stats" src="https://github-readme-stats-one-lovat-kxmyoq5oni.vercel.app/api?username=dstepanian&include_all_commits=true&count_private=true&show_icons=true&hide_rank=true&hide=issues&card_width=420&icon_color=4ade80&bg_color=0d1117&title_color=61dafb&text_color=c9d1d9&border_color=30363d&border_radius=12"/>
-<img height="170" alt="Most used languages" src="https://github-readme-stats-one-lovat-kxmyoq5oni.vercel.app/api/top-langs/?username=dstepanian&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5&card_width=408&bg_color=0d1117&title_color=61dafb&text_color=c9d1d9&border_color=30363d&border_radius=12"/>
+<img width="49%" alt="GitHub stats" src="https://github-readme-stats-one-lovat-kxmyoq5oni.vercel.app/api?username=dstepanian&include_all_commits=true&count_private=true&show_icons=true&hide_rank=true&hide=issues&card_width=420&icon_color=4ade80&bg_color=0d1117&title_color=61dafb&text_color=c9d1d9&border_color=30363d&border_radius=12"/>
+<img width="49%" alt="Most used languages" src="https://github-readme-stats-one-lovat-kxmyoq5oni.vercel.app/api/top-langs/?username=dstepanian&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5&card_width=408&bg_color=0d1117&title_color=61dafb&text_color=c9d1d9&border_color=30363d&border_radius=12"/>
 <br/>
-<img width="844" alt="Contribution streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dstepanian&card_width=844&card_height=170&border_radius=12&background=0D1117&border=30363D&stroke=30363D&ring=4ADE80&fire=61DAFB&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=4ADE80&sideLabels=9DA7B3&dates=8B949E"/>
+<img width="98.6%" alt="Contribution streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dstepanian&card_width=844&card_height=170&border_radius=12&background=0D1117&border=30363D&stroke=30363D&ring=4ADE80&fire=61DAFB&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=4ADE80&sideLabels=9DA7B3&dates=8B949E"/>
 
 </div>
 
