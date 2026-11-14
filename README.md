@@ -20,7 +20,9 @@
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/st3panian) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dstepanian) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/davidstepanyan)
+<a href="https://linkedin.com/in/dstepanian"><img src="https://img.shields.io/badge/LinkedIn-21262d?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" height="32"/></a>&nbsp;
+<a href="https://instagram.com/st3panian"><img src="https://img.shields.io/badge/Instagram-21262d?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" height="32"/></a>&nbsp;
+<a href="https://x.com/davidstepanyan"><img src="https://img.shields.io/badge/X-21262d?style=for-the-badge&logo=x&logoColor=white" alt="X" height="32"/></a>
 
 # 💻 Tech Stack
 
