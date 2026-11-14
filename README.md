@@ -29,25 +29,25 @@
 > Full-stack developer focused on Node.js / Express.js backends, React / Vite / Next.js frontends, real-time systems and production deployment, with an eye for design and full ownership of the infrastructure.
 
 **Languages**  
-<img src="https://skillicons.dev/icons?perline=8&i=js,ts,py,powershell,html,css" alt="JavaScript, TypeScript, Python, PowerShell, HTML, CSS" height="40"/>
+<img src="https://skillicons.dev/icons?perline=12&i=js,ts,py,php,cs,powershell,html,css" alt="JavaScript, TypeScript, Python, PHP, C#, PowerShell, HTML, CSS" height="40"/>
 
 **Backend**  
-<img src="https://skillicons.dev/icons?perline=8&i=nodejs,express,django" alt="Node.js, Express, Django" height="40"/>
+<img src="https://skillicons.dev/icons?perline=12&i=nodejs,express,django" alt="Node.js, Express, Django" height="40"/>
 
 **Frontend**  
-<img src="https://skillicons.dev/icons?perline=8&i=react,vite,nextjs,threejs" alt="React, Vite, Next.js, Three.js" height="40"/>
+<img src="https://skillicons.dev/icons?perline=12&i=react,vite,nextjs,tailwind,threejs" alt="React, Vite, Next.js, Tailwind CSS, Three.js" height="40"/>
 
 **Databases**  
-<img src="https://skillicons.dev/icons?perline=8&i=mongodb,postgres,mysql,sqlite" alt="MongoDB, PostgreSQL, MySQL, SQLite" height="40"/>
+<img src="https://skillicons.dev/icons?perline=12&i=mongodb,postgres,supabase,mysql,sqlite" alt="MongoDB, PostgreSQL, Supabase, MySQL, SQLite" height="40"/>
 
 **Infrastructure & monitoring**  
-<img src="https://skillicons.dev/icons?perline=8&i=linux,nginx,vercel,netlify,prometheus,grafana,raspberrypi" alt="Linux, Nginx, Vercel, Netlify, Prometheus, Grafana, Raspberry Pi" height="40"/>
+<img src="https://skillicons.dev/icons?perline=12&i=linux,docker,nginx,githubactions,cloudflare,vercel,netlify,prometheus,grafana,raspberrypi" alt="Linux, Docker, Nginx, GitHub Actions, Cloudflare, Vercel, Netlify, Prometheus, Grafana, Raspberry Pi" height="40"/>
 
 **Tools**  
-<img src="https://skillicons.dev/icons?perline=8&i=git,github,gitlab" alt="Git, GitHub, GitLab" height="40"/>
+<img src="https://skillicons.dev/icons?perline=12&i=git,github,gitlab" alt="Git, GitHub, GitLab" height="40"/>
 
 **Design**  
-<img src="https://skillicons.dev/icons?perline=8&i=figma,ps,ai,pr" alt="Figma, Photoshop, Illustrator, Premiere Pro" height="40"/>
+<img src="https://skillicons.dev/icons?perline=12&i=figma,ps,ai,pr" alt="Figma, Photoshop, Illustrator, Premiere Pro" height="40"/>
 
 **Also:** Socket.io and WebRTC for real-time, GSAP for animation, PM2 for process management, WireGuard and Ubiquiti networking, Telegram bots
 
