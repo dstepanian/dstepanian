@@ -1,20 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:339933,100:61DAFB&height=200&section=header&text=David%20Stepanyan&fontColor=ffffff&fontSize=50&animation=fadeIn&descSize=18" width="100%"/>
+<img src="assets/header.svg" alt="David Stepanyan, full-stack developer from Armenia" width="100%"/>
 
 <a href="https://github.com/dstepanian?tab=followers"><img src="https://img.shields.io/github/followers/dstepanian?label=Follow&style=social"/></a>
 <img src="https://komarev.com/ghpvc/?username=dstepanian&color=1572B6&style=flat&label=Profile+Views"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=1572B6&center=true&vCenter=true&width=600&lines=Full-stack+developer+from+Armenia;Node.js+%E2%80%A2+Express+%E2%80%A2+React;APIs+dashboards+real-time+systems;Building+for+impact+%40+COAF"/>
 
 </div>
 
 ## 🧑‍💻 About Me
 
-- 🔭 Full-stack developer at **COAF** (Children of Armenia Fund) — based in **Armenia** 🇦🇲
-- ⚙️ I build with **Node.js / Express.js**, **React / Vite / Next.js**, **MongoDB** and REST APIs, then **deploy and run the infrastructure myself** — Linux VPS, Nginx, PM2, SSL and monitoring
-- 🎨 I also design — **Figma** and the **Adobe** suite
+- 🔭 Full-stack developer at **COAF** (Children of Armenia Fund), based in **Armenia**
+- ⚙️ I build with **Node.js / Express.js**, **React / Vite / Next.js**, **MongoDB** and REST APIs. Then I **deploy and run the infrastructure myself**: Linux VPS, Nginx, PM2, SSL and monitoring
+- 🎨 I also design, with **Figma** and the **Adobe** suite
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/dstepanian)
+
+<div align="center">
+<img src="assets/terminal.svg" alt="Terminal: whoami, my stack and my motto" width="720"/>
+</div>
 
 ## 🌐 Socials
 
@@ -22,7 +24,7 @@
 
 # 💻 Tech Stack
 
-> Full-stack developer focused on Node.js / Express.js backends, React/Vite/Next.js frontends, real-time systems and production deployment — with design sense and infrastructure ownership.
+> Full-stack developer focused on Node.js / Express.js backends, React / Vite / Next.js frontends, real-time systems and production deployment, with an eye for design and full ownership of the infrastructure.
 
 **🧠 Languages**  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -57,13 +59,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dstepanian&theme=tokyonight&hide_border=true&v=3"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=dstepanian&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8"/>
-
 </div>
 
----
-<div align="center">
-<i>⚡ Building things that matter, one commit at a time.</i>
-</div>
-
-
+<img src="assets/footer.svg" alt="Thanks for stopping by" width="100%"/>

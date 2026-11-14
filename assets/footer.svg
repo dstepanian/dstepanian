@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" role="img" aria-labelledby="t">
+  <title id="t">Thanks for stopping by</title>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#339933"/>
+      <stop offset="1" stop-color="#61dafb"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="140" rx="22"/></clipPath>
+    <style>
+      text { font-family: "Segoe UI", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif; }
+      .w1 { animation: flow 14s linear infinite; }
+      .w2 { animation: flow 9s linear infinite reverse; }
+      .w3 { animation: flow 6s linear infinite; }
+      @keyframes flow { from { transform: translateX(0); } to { transform: translateX(-1200px); } }
+      @media (prefers-reduced-motion: reduce) { .w1, .w2, .w3 { animation: none; } }
+    </style>
+  </defs>
+  <g clip-path="url(#frame)">
+    <!-- each wave is 2400 wide (two identical 1200 periods) so it can loop seamlessly -->
+    <path class="w1" fill="url(#g)" opacity="0.25" d="M0 48 C150 18 300 18 450 48 S750 78 900 48 S1050 18 1200 48 C1350 18 1500 18 1650 48 S1950 78 2100 48 S2250 18 2400 48 V140 H0 Z"/>
+    <path class="w2" fill="url(#g)" opacity="0.4" d="M0 62 C200 36 400 36 600 62 S1000 88 1200 62 C1400 36 1600 36 1800 62 S2200 88 2400 62 V140 H0 Z"/>
+    <path class="w3" fill="url(#g)" d="M0 80 C100 66 200 66 300 80 S500 94 600 80 S800 66 900 80 S1100 94 1200 80 C1300 66 1400 66 1500 80 S1700 94 1800 80 S2000 66 2100 80 S2300 94 2400 80 V140 H0 Z"/>
+    <text x="600" y="120" text-anchor="middle" font-size="18" font-weight="600" fill="#ffffff">Thanks for stopping by</text>
+  </g>
+</svg>

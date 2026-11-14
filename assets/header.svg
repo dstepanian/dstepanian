@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="t d">
+  <title id="t">David Stepanyan</title>
+  <desc id="d">Full-stack developer from Armenia. A night sky over Mount Ararat with twinkling stars, and a line that cycles through what David builds.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#070b16"/>
+      <stop offset="0.65" stop-color="#0c1830"/>
+      <stop offset="1" stop-color="#123047"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4ade80"/>
+      <stop offset="0.5" stop-color="#61dafb"/>
+      <stop offset="1" stop-color="#4ade80"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1 0; 0 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="moon" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#e2f3ff" stop-opacity="0.9"/>
+      <stop offset="0.25" stop-color="#bfe6ff" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#61dafb" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="far" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1d3b5c"/>
+      <stop offset="1" stop-color="#132a44"/>
+    </linearGradient>
+    <linearGradient id="near" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0f2236"/>
+      <stop offset="1" stop-color="#0a1626"/>
+    </linearGradient>
+    <linearGradient id="trail" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.9"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="320" rx="22"/></clipPath>
+    <style>
+      text { font-family: "Segoe UI", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+      .star { fill: #fff; animation: twinkle 3.2s ease-in-out infinite; }
+      .s2 { animation-delay: -1.1s; animation-duration: 2.6s; }
+      .s3 { animation-delay: -2.2s; animation-duration: 4s; }
+      .rise { opacity: 0; animation: rise 0.9s ease-out forwards; }
+      .d1 { animation-delay: 0.15s; } .d2 { animation-delay: 0.35s; } .d3 { animation-delay: 0.55s; }
+      .wave { transform-box: fill-box; transform-origin: 70% 80%; animation: wave 2.4s ease-in-out infinite; }
+      .role { opacity: 0; animation: role 12s ease-in-out infinite; }
+      .r2 { animation-delay: -9s; } .r3 { animation-delay: -6s; } .r4 { animation-delay: -3s; }
+      .caret { animation: blink 1s steps(1) infinite; }
+      .shoot { animation: shoot 9s ease-in infinite; animation-delay: 2s; opacity: 0; }
+      .drift { animation: drift 14s ease-in-out infinite alternate; }
+
+      @keyframes twinkle { 0%, 100% { opacity: .25; } 50% { opacity: 1; } }
+      @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
+      @keyframes wave { 0%, 60%, 100% { transform: rotate(0deg); } 10%, 30% { transform: rotate(16deg); } 20%, 40% { transform: rotate(-8deg); } }
+      @keyframes role {
+        0% { opacity: 0; transform: translateY(10px); }
+        4%, 22% { opacity: 1; transform: translateY(0); }
+        26%, 100% { opacity: 0; transform: translateY(-10px); }
+      }
+      @keyframes blink { 0%, 50% { opacity: 1; } 50.01%, 100% { opacity: 0; } }
+      @keyframes shoot {
+        0% { opacity: 0; transform: translate(0, 0); }
+        2% { opacity: 1; }
+        9% { opacity: 0; transform: translate(260px, 110px); }
+        100% { opacity: 0; transform: translate(260px, 110px); }
+      }
+      @keyframes drift { from { transform: translateX(0); } to { transform: translateX(-18px); } }
+
+      @media (prefers-reduced-motion: reduce) {
+        .star, .wave, .caret, .shoot, .drift, #name animateTransform { animation: none; }
+        .rise { animation: none; opacity: 1; }
+        .role { animation: none; }
+        .r1 { opacity: 1; }
+      }
+    </style>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="320" fill="url(#sky)"/>
+
+    <!-- moon glow -->
+    <circle cx="1060" cy="70" r="90" fill="url(#moon)"/>
+    <circle cx="1060" cy="70" r="16" fill="#eef8ff"/>
+
+    <!-- stars -->
+    <g>
+      <circle class="star" cx="610" cy="40" r="1.4"/>
+      <circle class="star s2" cx="660" cy="96" r="1.1"/>
+      <circle class="star s3" cx="702" cy="58" r="1.6"/>
+      <circle class="star" cx="748" cy="122" r="1"/>
+      <circle class="star s2" cx="790" cy="30" r="1.3"/>
+      <circle class="star s3" cx="832" cy="84" r="1.1"/>
+      <circle class="star" cx="880" cy="48" r="1.7"/>
+      <circle class="star s2" cx="918" cy="128" r="1"/>
+      <circle class="star s3" cx="958" cy="24" r="1.2"/>
+      <circle class="star" cx="1000" cy="140" r="1.1"/>
+      <circle class="star s2" cx="1130" cy="140" r="1.3"/>
+      <circle class="star s3" cx="1160" cy="36" r="1.1"/>
+      <circle class="star" cx="1112" cy="190" r="0.9"/>
+      <circle class="star s3" cx="560" cy="120" r="1"/>
+      <circle class="star s2" cx="520" cy="30" r="1.2"/>
+      <circle class="star" cx="440" cy="22" r="1"/>
+      <circle class="star s3" cx="360" cy="40" r="1.3"/>
+      <circle class="star s2" cx="260" cy="26" r="1"/>
+      <circle class="star" cx="150" cy="34" r="1.2"/>
+      <circle class="star s3" cx="60" cy="28" r="1"/>
+    </g>
+
+    <!-- shooting star -->
+    <g class="shoot">
+      <line x1="560" y1="20" x2="640" y2="54" stroke="url(#trail)" stroke-width="2" stroke-linecap="round"/>
+    </g>
+
+    <!-- Mount Ararat: Masis and Sis -->
+    <g class="drift">
+      <path d="M540 320 L560 300 C640 262 720 214 790 168 C818 150 840 128 862 118 C878 112 892 120 910 134 C950 166 980 190 1010 206 C1028 196 1044 180 1062 176 C1080 174 1104 196 1130 212 C1160 230 1190 246 1240 262 L1240 320 Z" fill="url(#far)"/>
+      <path d="M800 162 C822 146 844 126 862 118 C878 112 892 120 910 134 C924 146 936 156 946 164 C930 160 918 170 904 160 C892 152 884 166 870 156 C858 148 848 164 834 158 C824 154 812 164 800 162 Z" fill="#dbe9f6" opacity="0.85"/>
+      <path d="M1040 186 C1048 180 1054 176 1062 176 C1072 176 1080 182 1088 188 C1080 190 1072 186 1064 192 C1056 188 1050 192 1040 186 Z" fill="#dbe9f6" opacity="0.7"/>
+    </g>
+    <path d="M0 320 L0 300 C120 284 260 296 400 286 C520 278 640 292 760 282 C880 272 1000 288 1100 280 C1150 276 1180 282 1200 284 L1200 320 Z" fill="url(#near)"/>
+
+    <!-- text -->
+    <g class="rise d1">
+      <text x="72" y="96" font-size="24" fill="#9fb3c8">Hi there, I'm</text>
+      <text class="wave" x="208" y="96" font-size="26">👋</text>
+    </g>
+    <g class="rise d2">
+      <text x="68" y="166" font-size="66" font-weight="800" letter-spacing="-1" fill="url(#name)">David Stepanyan</text>
+    </g>
+    <g class="rise d3">
+      <text x="72" y="214" font-size="24" fill="#4ade80" class="mono">&gt;</text>
+      <g font-size="23" fill="#d6e2ee" class="mono">
+        <text class="role r1" x="98" y="214">Full-stack developer from Armenia</text>
+        <text class="role r2" x="98" y="214">Node.js, Express and React</text>
+        <text class="role r3" x="98" y="214">APIs, dashboards, real-time systems</text>
+        <text class="role r4" x="98" y="214">Building for impact at COAF</text>
+      </g>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="319" rx="22" fill="none" stroke="#1f3550"/>
+</svg>
